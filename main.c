@@ -5,5 +5,7 @@ int main(void)
 {
 	//testy
 
-	while(1);
+	while(1){
+		//cos tam
+	}
 }

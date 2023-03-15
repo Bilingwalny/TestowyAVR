@@ -1,8 +1,6 @@
-/*
- * main.c
- *
- *  Created on: 15 mar 2023
- *      Author: User
- */
+#include <Avr/io.h>
 
-
+int main(void)
+{
+	while(1);
+}

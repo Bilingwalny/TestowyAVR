@@ -4,4 +4,6 @@
 int main(void)
 {
 	//testy
+
+	while(1);
 }
